@@ -1,0 +1,7 @@
+vless://eff15e6e-b414-4208-cfbd-f473835f6a8a@mci.ircf.space:443?sni=111.olemam.shop&security=tls&type=ws&path=/@melov2ray&host=111.olemam.shop#@melov2ray-ws
+
+vless://eff15e6e-b414-4208-cfbd-f473835f6a8a@mcix.ircf.space:443?sni=111.olemam.shop&security=tls&type=ws&path=/@melov2ray&host=111.olemam.shop#@melov2ray-ws
+
+vless://646a3298-4c3f-405e-c64e-900addbe33e0@mci.ircf.space:2096?sni=111.olemam.shop&security=tls&type=grpc&serviceName=@melov2ray#@melov2ray-grpc
+
+vless://646a3298-4c3f-405e-c64e-900addbe33e0@mcix.ircf.space:2096?sni=111.olemam.shop&security=tls&type=grpc&serviceName=@melov2ray#@melov2ray-grpc
