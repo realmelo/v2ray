@@ -1,7 +1,7 @@
-vless://6d54edb2-b3cf-4d4e-f0a2-747039bd474b@mtn.ircf.space:443?sni=333.olemam.shop&security=tls&type=ws&path=/@melov2ray&host=333.olemam.shop#@melov2ray-ws
+vless://6d54edb2-b3cf-4d4e-f0a2-747039bd474b@mtn.ircf.space:443?sni=qqq.olemam.shop&security=tls&type=ws&path=/@melov2ray&host=qqq.olemam.shop#@melov2ray-ws
 
-vless://6d54edb2-b3cf-4d4e-f0a2-747039bd474b@mtnx.ircf.space:443?sni=333.olemam.shop&security=tls&type=ws&path=/@melov2ray&host=333.olemam.shop#@melov2ray-ws
+vless://6d54edb2-b3cf-4d4e-f0a2-747039bd474b@mtnx.ircf.space:443?sni=qqq.olemam.shop&security=tls&type=ws&path=/@melov2ray&host=qqq.olemam.shop#@melov2ray-ws
 
-vless://b1840200-4572-4838-c804-6d4d1994134d@mtn.ircf.space:2096?sni=333.olemam.shop&security=tls&type=grpc&serviceName=@melov2ray#@melov2ray-grpc
+vless://b1840200-4572-4838-c804-6d4d1994134d@mtn.ircf.space:2096?sni=qqq.olemam.shop&security=tls&type=grpc&serviceName=@melov2ray#@melov2ray-grpc
 
-vless://b1840200-4572-4838-c804-6d4d1994134d@mtnx.ircf.space:2096?sni=333.olemam.shop&security=tls&type=grpc&serviceName=@melov2ray#@melov2ray-grpc
+vless://b1840200-4572-4838-c804-6d4d1994134d@mtnx.ircf.space:2096?sni=qqq.olemam.shop&security=tls&type=grpc&serviceName=@melov2ray#@melov2ray-grpc
