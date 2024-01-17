@@ -1,0 +1,5 @@
+vless://4b9a1eab-9fb3-41fd-81e2-c0b2339244bd@fin.melov2ray.shop:443?type=grpc&serviceName=@melov2ray&security=tls&fp=random&alpn=h2%2Chttp%2F1.1%2Ch3&sni=FIn.Melov2ray.Shop#@melov2ray-tls%F0%9F%87%AB%F0%9F%87%AE
+
+vless://4b9a1eab-9fb3-41fd-81e2-c0b2339244bd@zula.ir:443?type=grpc&serviceName=@melov2ray&security=tls&fp=random&alpn=h2%2Chttp%2F1.1%2Ch3&sni=FIn.Melov2ray.Shop#@melov2ray-tls%F0%9F%87%AB%F0%9F%87%AE
+
+vless://4b9a1eab-9fb3-41fd-81e2-c0b2339244bd@www.speedtest.net:443?type=grpc&serviceName=@melov2ray&security=tls&fp=random&alpn=h2%2Chttp%2F1.1%2Ch3&sni=FIn.Melov2ray.Shop#@melov2ray-tls%F0%9F%87%AB%F0%9F%87%AE
